@@ -52,7 +52,7 @@ mkdir src/userplugins
 ### 3. Add this plugin
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/vencord-apple-emojis.git src/userplugins/appleEmojis
+git clone https://github.com/freeman649/Apple-Emoji-Plugins-Vencord.git src/userplugins/appleEmojis
 ```
 
 ### 4. Build and inject
