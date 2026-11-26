@@ -1,7 +1,10 @@
 # AppleEmojis for Vencord
 
 A [Vencord](https://github.com/Vendicated/Vencord) userplugin that replaces Discord's default (Twemoji) emojis with Apple-style emojis.
-
+ 
+> [!WARNING]
+> **External service disclaimer:** this plugin makes requests to an external service. To display Apple-style emojis, it downloads emoji images from the [jsDelivr](https://www.jsdelivr.com/) CDN (`cdn.jsdelivr.net`), which serves the [`emoji-datasource-apple`](https://www.npmjs.com/package/emoji-datasource-apple) npm package. See [External services](#external-services) below for details.
+ 
 ## What it replaces
 
 - Emojis in chat messages
